@@ -1,0 +1,4 @@
+rootProject.name = "example-root"
+
+include "example-commons"
+include "example-web"
